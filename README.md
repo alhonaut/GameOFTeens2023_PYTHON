@@ -1,1 +1,1 @@
-Це проект для Хакатону 2023 від lifecell.
+This is a project for Hackathon 2023 by lifecell.
